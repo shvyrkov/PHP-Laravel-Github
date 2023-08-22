@@ -1,0 +1,24 @@
+.header {
+    width: 100%;
+    text-align: center
+}
+
+.header h1 {
+    background-color: greenyellow;
+    height: 50px;
+}
+
+.header h2 {
+    background-color: darkseagreen;
+    height: 40px;
+}
+
+.form_title {
+    background-color: skyblue;
+    width: 100%;
+    text-align: center
+}
+
+.invalid {
+    color: red;
+}
